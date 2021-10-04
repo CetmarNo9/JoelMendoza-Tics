@@ -1,0 +1,46 @@
+*{
+				margin: 0px;
+				padding: 0px;
+}
+.contenedor{
+				max-width: 960px; 
+				margin: auto;
+}
+.bloque h1{
+				margin: 0px;
+				text-align: center;
+				font-size: 80px;
+				color: white;
+				line-height: 700px;
+}
+.bloque h2{
+				font-size: 24px;
+				margin-bottom: 50px;
+}
+.bloque p{
+				font-size: 18px;
+				text-align: justify;
+					margin-bottom: 50px;
+}
+.bloque.parallax{
+				height: 600px;
+				background-position: 50% 50%;
+				background-repeat: no-repeat;
+				background-size: cover;
+				background-attachment: fixed;
+}
+
+.parallax.foto-1{
+				background-image:  url(../img/foto1.png);
+}
+.parallax.foto-2{
+				background-image:  url(../img/foto2.png);
+}
+.parallax.foto-3{
+				background-image:  url(../img/foto3.png);
+}
+
+.parallax.foto-4{
+				background-image:  url(../img/foto4.png);
+}
+
